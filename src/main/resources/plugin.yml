@@ -1,0 +1,4 @@
+name: AtelisMageia
+version: '${project.version}'
+main: me.adelemphii.atelísmageía.AtelisMageia
+api-version: 1.16
